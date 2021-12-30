@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Plant Disease Classifier</string>
+    <string name="buttonSelectPhoto">Select Photo</string>
+    <string name="buttonTakePhoto">Start Camera</string>
+    <string name="buttonDiagnose">Classify</string>
+    <string name="defaultImage">Default image set now...</string>
+    <string name="descriptionImage">View for displaying image</string>
+    <string name="callforhelp">Contact us if need help</string>
+</resources>
